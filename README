@@ -1,0 +1,13 @@
+
+	###	typing 		###
+
+Title: typing
+Description: program printed text with specific delay
+
+Install:
+
+$ make
+
+OR:
+
+$ gcc typing.c -o typing
